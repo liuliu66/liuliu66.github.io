@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: Qi.
+title: Wellcome to Liu's Homapage # the website title (if blank, full name will be used instead)
+first_name: Liu
 middle_name: 
-last_name: Wu
+last_name: Liu
 email: robotics_qi@sjtu.edu.cn
 keywords: CQUPT,  BUPT, SJTU, SLAM Reasearcher  # add your own keywords or leave empty
 
