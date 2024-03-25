@@ -2,52 +2,48 @@
   type: map
   contents:
     - name: Full Name
-      value: Qi. Wu
+      value: Liu Liu
     - name: Languages
       value: English, Chinese
     - name: Research Interest.
-      value: SLAM、Implicit 3D Reconstruction
+      value: Embodied AI, Computer Vision, 3D Vision
+
+- title: Work
+  type: time_table
+  contents:
+    - title: Associate Professor
+      institution: Hefei University of Technology
+      year: 2022.09 - Present
+      logo: HFUT.png
+      description:
+        - <span>Team:</span> <a href="https://sites.google.com/view/meng-wang/home">Meng Wang</a> & <a href="https://sites.google.com/site/homeofrichanghong/">Richang Hong</a>.
+    - title: PostDoctoral
+      institution: Shanghai Jiao Tong University
+      year: 2020.06 - 2022.07
+      logo: sjtu.png
 
 - title: Education
   type: time_table
   contents:
-    - title: Phd in SJTU.
-      institution: Shanghai Key Laboratory of Navigation and Location Based Service
-      year: 2019.09 - Present
-      logo: sjtu.png
+    - title: Phd
+      institution: University of Science and Technology of China
+      year: 2017.09 - 2020.06
+      logo: USTC.png
       description:
-        - <span>Advisor:</span> <a href="https://ssse.sjtu.edu.cn/Data/Info/436">Wenxian Yu</a> & <a href="https://ssse.sjtu.edu.cn/Data/View/308">Ling Pei</a>.
-    - title: Master in BUPT.
-      institution: Research Center for Wireless Network Positioning and Communication Integration.
-      logo: BUPT.svg
-      year: 2016.09 - 2019.06
+        - <span>Advisor:</span> <a href="https://auto.ustc.edu.cn/2021/0510/c25976a484866/page.htm">Rujing Wang</a>
+    - title: Master in UoM.
+      institution: University of Manchester
+      logo: UoM.svg
+      year: 2015.09 - 2016.12
       description:
-        - <span>Advisor:</span> <a href="https://teacher.bupt.edu.cn/dengzhongliang/zh_CN/index.htm">Zhongliang Deng</a> & <a href="https://teacher.bupt.edu.cn/jiaojichao">Jichao Jiao</a>.
-    - title: Bachelor in CQUPT.
-      institution: Wireless Positioning and Spatial Measurement Innovation Team.
-      logo: CQUPT.jpeg
-      year: 2012.09 - 2016.06
-      description:
-        - <span>Advisor:</span> <a href="https://www.cqcxy.cn/news/2079.html">Mu Zhou</a> .
-
-- title: Intern Experience
-  type: time_table
-  contents:
-    - title: Software Intern
-      institution: Momenta
-      year: 2017.06 - 2017.09
-      description:
-        - <span>Mentor:</span> Haoping Deng.
-        - <span>Topic:</span> Stereo vision-based SLAM for autonomous driving.
-    - title: Research Intern
-      institution: Bytedance
-      year: 2022.03-2023.09
-      description:
-        - <span>Mentor:</span> Chao Long & Xiangyu Xu.
-        - <span>Topic:</span> NeRF Reconstruction & Multi-Sensor SLAM.
+        - <span>Advisor:</span> <a href="http://www.cs.man.ac.uk/~kechen/">Ke Chen</a>
+    - title: Bachelor in NUAA.
+      institution: UNanjing University of Aeronautics and Astronautics
+      logo: NUAA.png
+      year: 2011.09 - 2015.06
 
 - title: Services
   type: list
   contents:
-     - <strong>Journal Reviewer:</strong> RAL(Robotics and Automation Letters)
-     - <strong>Conference Reviewer:</strong> ICRA'23
+     - <strong>Journal Reviewer:</strong> TIP, TII, TMM, TCSVT, TNNLS
+     - <strong>Conference Reviewer:</strong> CVPR, ICCV, ECCV, ACMMM, AAAI, IJCAI, ICRA

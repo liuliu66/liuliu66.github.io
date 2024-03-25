@@ -1,2 +1,2 @@
-Our work has been accepted by the ICCV(International Conference on Computer Vision)(Co-First Author).
+Our work has been accepted by the ICRA 2024 (The International Conference on Robotics and Automation).
 ! :sparkles: :smile:
