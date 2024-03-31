@@ -9,7 +9,7 @@ last_name: Liu
 email: liuliu@hfut.edu.cn
 keywords: Embodied AI, 3D Vision  # add your own keywords or leave empty
 
-lang: en # the main language of your site (for example: en, fr, cn, ru, etc.)
+lang: zh # the main language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://liuliu66.github.io # the base hostname & protocol for your site
