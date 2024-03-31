@@ -1,2 +1,2 @@
-我们的工作被ICCV(International Conference on Computer Vision)接收(共同第一作者).
+Our work has been accepted by the ICRA 2024 (The International Conference on Robotics and Automation).
 ! :sparkles: :smile:

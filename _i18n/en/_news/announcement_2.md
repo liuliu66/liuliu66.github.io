@@ -1,2 +1,2 @@
-我们的工作被TIE(Transactions on Industrial Electronics)接收.
+Our work has been accepted by the AAAI 2024 (AAAI Conference on Artificial Intelligence).
 ! :sparkles: :smile:
