@@ -5,11 +5,7 @@
       value: Liu Liu
     - name: Languages
       value: English, Chinese
-<<<<<<< HEAD
     - name: Research Interest.
-=======
-    - name: Research Interest
->>>>>>> ed7e54f8bf484879ab77c77576bdcb820e6ca04c
       value: Embodied AI, Computer Vision, 3D Vision
 
 - title: Work
@@ -50,8 +46,4 @@
   type: list
   contents:
      - <strong>Journal Reviewer:</strong> TIP, TII, TMM, TCSVT, TNNLS
-<<<<<<< HEAD
      - <strong>Conference Reviewer:</strong> CVPR, ICCV, ECCV, ACMMM, AAAI, IJCAI, ICRA
-=======
-     - <strong>Conference Reviewer:</strong> CVPR, ICCV, ECCV, ACMMM, AAAI, IJCAI, ICRA
->>>>>>> ed7e54f8bf484879ab77c77576bdcb820e6ca04c

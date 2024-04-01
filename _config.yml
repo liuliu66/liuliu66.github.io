@@ -2,20 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-<<<<<<< HEAD
 title: Liu Liu # the website title (if blank, full name will be used instead)
-=======
-title: blank # the website title (if blank, full name will be used instead)
->>>>>>> ed7e54f8bf484879ab77c77576bdcb820e6ca04c
 first_name: Liu
 middle_name: 
 last_name: Liu
 email: liuliu@hfut.edu.cn
-<<<<<<< HEAD
 keywords: Embodied AI, Computer Vision, 3D Vision  # add your own keywords or leave empty
-=======
-keywords: Embodied AI, 3D Vision  # add your own keywords or leave empty
->>>>>>> ed7e54f8bf484879ab77c77576bdcb820e6ca04c
 
 lang: en # the main language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -72,11 +64,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: liuliu66 # your GitHub user name
 gitlab_username: # your GitLab user name
-<<<<<<< HEAD
 x_username: LiuLiu # your X handle
-=======
-x_username: Liu_Liu # your X handle
->>>>>>> ed7e54f8bf484879ab77c77576bdcb820e6ca04c
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
