@@ -13,40 +13,38 @@
   contents:
     - title: PhD
       institution: University of Science and Technology of China
-      year: 2020
+      year: 2017.09 - 2020.06
+      logo: USTC.png
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: B.S. degree
+        - <span>Advisor:</span> <a href="https://auto.ustc.edu.cn/2021/0510/c25976a484866/page.htm">Rujing Wang</a>
+    - title: Master degree
+      institution: University of Manchester
+      logo: UoM.svg
+      year: 2015.09 - 2016.12
+      description:
+        - <span>Advisor:</span> <a href="http://www.cs.man.ac.uk/~kechen/">Ke Chen</a>
+    - title: Bachelor degree
       institution: Nanjing University of Aeronautics and Astronautics
-      year: 2015
+      year: 2011.09 - 2015.06
+      logo: NUAA.png
       description:
-        - Description 1.
-        - Description 2.
+        
 
 - title: Experience
   type: time_table
   contents:
     - title: Associate Professor
       institution: Hefei University of Technology
-      year: 2022 - now
+      year: 2022.09 - Present
+      logo: HFUT.png
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Post Doc.
+        - <span>Team:</span> <a href="https://sites.google.com/view/meng-wang/home">Meng Wang</a> & <a href="https://sites.google.com/site/homeofrichanghong/">Richang Hong</a>.
+    - title: PostDoctoral
       institution: Shanghai Jiao Tong University
-      year: 2020 - 2022
+      year: 2020.06 - 2022.07
+      logo: sjtu.png
       description:
-        - Description 1.
-        - Description 2.
+        - <span>Advisor:</span> <a href="https://www.mvig.org/">Cewu Lu</a>
 
 - title: Honors and Awards
   type: time_table
