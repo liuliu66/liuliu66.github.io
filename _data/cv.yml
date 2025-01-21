@@ -56,33 +56,31 @@
       items:
         - Shanghai "Super PostDoctoral"
     - year: 2019
+      items:
         - IEEE Conference on Industrial Informatics best paper
 
 - title: Funding
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - National Science Fundation of China (Youth Program)
+        - Anhui Province Science Fundation of China (Youth Program)
 
 - title: Service
   type: list
   contents:
-    - <strong>Journal Reviewer:</strong> RAL(Robotics and Automation Letters)
-    - <strong>Conference Reviewer:</strong> ICRA'23
+    - <strong>Journal Reviewer:</strong> TIP, TII, TMM, TNNLS, TCSVT
+    - <strong>Conference Reviewer:</strong> CVPR, ICCV, ECCV, NeurIPS, ACM MM, AAAI, IJCAI, ICRA
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Embodied AI
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Intelligent Robotics
+        - 6D Pose Estimation
+    - title: Computer Vision
       items:
-        - Description 1.
-        - Description 2.
+        - 3D Vision
+        - Point Cloud Processing
