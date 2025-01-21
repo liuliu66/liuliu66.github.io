@@ -1,14 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - liuliu66
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - liuliu66/articulation_estimator_slim
+  - liuliu66/LabelArticulation

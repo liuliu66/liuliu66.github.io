@@ -1,8 +1,2 @@
----
-layout: post
-date: 2016-01-15 07:59:00-0400
-inline: true
-related_posts: false
----
-
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our work has been accepted by the ACMMM 2023 with ***oral*** (Proceedings of the ACM International Conference on Multimedia).
+! :sparkles: :smile:
