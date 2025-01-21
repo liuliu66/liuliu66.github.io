@@ -58,7 +58,7 @@
               {% if entry.logo contains '://' -%}
                 <img src="{{ content.logo }}">
               {%- else -%}
-              <img src="{{ content.logo | prepend: '../assets/img/cv_logo/' | relative_url }}">
+              <img src="{{ content.logo | prepend: '../assets/img/cv_logo/' | relative_url }}" style="width: 100%; height: auto;">
               {%- endif -%}
             {%- endif -%}
           </div>
