@@ -16,13 +16,13 @@
       year: 2017.09 - 2020.06
       logo: USTC.png
       description:
-        - <span>Advisor:</span> <a href="https://auto.ustc.edu.cn/2021/0510/c25976a484866/page.htm">Rujing Wang</a>
+        - <span>Supervisor:</span> <a href="https://auto.ustc.edu.cn/2021/0510/c25976a484866/page.htm">Rujing Wang</a>
     - title: Master degree
       institution: University of Manchester
       logo: UoM.jpg
       year: 2015.09 - 2016.12
       description:
-        - <span>Advisor:</span> <a href="http://www.cs.man.ac.uk/~kechen/">Ke Chen</a>
+        - <span>Supervisor:</span> <a href="http://www.cs.man.ac.uk/~kechen/">Ke Chen</a>
     - title: Bachelor degree
       institution: Nanjing University of Aeronautics and Astronautics
       year: 2011.09 - 2015.06
@@ -44,18 +44,19 @@
       year: 2020.06 - 2022.07
       logo: sjtu.png
       description:
-        - <span>Advisor:</span> <a href="https://www.mvig.org/">Cewu Lu</a>
+        - <span>Supervisor:</span> <a href="https://www.mvig.org/">Cewu Lu</a>
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - IEEE TII annual best paper
+    - year: 2020
       items:
-        - Max Planck Medal
+        - Shanghai "Super PostDoctoral"
+    - year: 2019
+        - IEEE Conference on Industrial Informatics best paper
 
 - title: Funding
   type: time_table
