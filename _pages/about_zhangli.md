@@ -1,0 +1,1 @@
+Li Zhang received the B.S. degree from the Nanchang University in 2020, Nanchang, China. He is currently pursuing the Ph.D. degree in computer science and application with the University of Science and Technology of China, Hefei. His current research interests include computer vision, image processing, and embodied AI.
