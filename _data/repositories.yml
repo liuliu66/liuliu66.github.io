@@ -6,5 +6,6 @@ repo_description_lines_max: 2
 github_repos:
   - liuliu66/articulation_estimator_slim
   - liuliu66/LabelArticulation
+  - xiaoxiaoxh/OMAD
   - hhhhhar/KPA-Tracker
   - wxycwymds/EfficientCAPER
