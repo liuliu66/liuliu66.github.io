@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-12-21 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-Our work has been accepted by the AAAI 2024 (AAAI Conference on Artificial Intelligence).
+Two paper have been accepted by the ICASSP 2025 (IEEE International Conference on Acoustics, Speech and Signal Processing).
 ! :sparkles: :smile:

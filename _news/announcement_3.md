@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-09-26 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-Our work has been accepted by the ACMMM 2023 with ***oral*** (Proceedings of the ACM International Conference on Multimedia).
+Two paper have been accepted by the NeurIPS 2024 (Conference and Workshop on Neural Information Processing Systems), where one with ***splotlight***.
 ! :sparkles: :smile:

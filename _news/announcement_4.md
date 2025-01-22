@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2024-11-15 15:59:00-0400
+date: 2025-07-01 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-Our work has been accepted by the ICRA 2024 (The International Conference on Robotics and Automation).
+One paper has been accepted by the ECCV 2024 (European Conference on Computer Vision).
 ! :sparkles: :smile:
