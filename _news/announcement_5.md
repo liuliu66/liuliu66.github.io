@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Two paper have been accepted by the IROS 2024 (IEEE/RSJ International Conference on Intelligent Robots and Systems).
+Two paper have been accepted by the **IROS** 2024 (IEEE/RSJ International Conference on Intelligent Robots and Systems).
 ! :sparkles: :smile:
