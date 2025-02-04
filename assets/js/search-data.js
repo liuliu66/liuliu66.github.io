@@ -48,11 +48,11 @@ ninja.data = [{
           window.location.href = "/blog/2024/photo-gallery/";
         
       },
-    },{id: "post-500-server-error",
+    },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
       
-        title: '500 Server Error <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
-      description: "",
+      description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
       section: "Posts",
       handler: () => {
         
@@ -389,20 +389,20 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-two-paper-have-been-accepted-by-the-iros-2024-ieee-rsj-international-conference-on-intelligent-robots-and-systems-sparkles-smile",
-          title: 'Two paper have been accepted by the IROS 2024 (IEEE/RSJ International Conference on...',
-          description: "",
-          section: "News",},{id: "news-one-paper-has-been-accepted-by-the-eccv-2024-european-conference-on-computer-vision-sparkles-smile",
-          title: 'One paper has been accepted by the ECCV 2024 (European Conference on Computer...',
-          description: "",
-          section: "News",},{id: "news-two-paper-have-been-accepted-by-the-neurips-2024-conference-and-workshop-on-neural-information-processing-systems-where-one-with-splotlight-sparkles-smile",
-          title: 'Two paper have been accepted by the NeurIPS 2024 (Conference and Workshop on...',
-          description: "",
-          section: "News",},{id: "news-one-paper-has-been-accepted-by-the-aaai-2025-the-aaai-conference-on-artificial-intelligence-sparkles-smile",
+    },{id: "news-one-paper-has-been-accepted-by-the-aaai-2025-the-aaai-conference-on-artificial-intelligence-sparkles-smile",
           title: 'One paper has been accepted by the AAAI 2025 (The AAAI Conference on...',
           description: "",
           section: "News",},{id: "news-two-paper-have-been-accepted-by-the-icassp-2025-ieee-international-conference-on-acoustics-speech-and-signal-processing-sparkles-smile",
           title: 'Two paper have been accepted by the ICASSP 2025 (IEEE International Conference on...',
+          description: "",
+          section: "News",},{id: "news-one-paper-has-been-accepted-by-the-ieee-tim-ieee-transactions-on-instrumentation-amp-amp-measurement-sparkles-smile",
+          title: 'One paper has been accepted by the IEEE TIM (IEEE Transactions on Instrumentation...',
+          description: "",
+          section: "News",},{id: "news-one-paper-has-been-accepted-by-the-icra-2025-ieee-international-conference-on-robotics-and-automation-sparkles-smile",
+          title: 'One paper has been accepted by the ICRA 2025 (IEEE International Conference on...',
+          description: "",
+          section: "News",},{id: "news-one-paper-has-been-accepted-by-the-ieee-tetci-2024-ieee-transactions-on-emerging-topics-in-computational-intelligence-sparkles-smile",
+          title: 'One paper has been accepted by the IEEE TETCI 2024 (IEEE Transactions on...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
