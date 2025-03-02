@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2024-12-10 00:00:00-0000
+date: 2025-02-26 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-One paper has been accepted by the **AAAI** 2025 (The AAAI Conference on Artificial Intelligence).
+One paper has been accepted by the **CVPR** 2025 (IEEE Conference on Computer Vision and Pattern Recognition).
 ! :sparkles: :smile:

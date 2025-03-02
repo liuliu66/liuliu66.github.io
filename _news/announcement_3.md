@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-One paper has been accepted by the **IEEE TETCI** 2024 (IEEE Transactions on Emerging Topics in Computational Intelligence).
+One paper has been accepted by the **IEEE TETCI** (IEEE Transactions on Emerging Topics in Computational Intelligence).
 ! :sparkles: :smile:
