@@ -389,10 +389,7 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-two-paper-have-been-accepted-by-the-icassp-2025-ieee-international-conference-on-acoustics-speech-and-signal-processing-sparkles-smile",
-          title: 'Two paper have been accepted by the ICASSP 2025 (IEEE International Conference on...',
-          description: "",
-          section: "News",},{id: "news-one-paper-has-been-accepted-by-the-ieee-tim-ieee-transactions-on-instrumentation-amp-amp-measurement-sparkles-smile",
+    },{id: "news-one-paper-has-been-accepted-by-the-ieee-tim-ieee-transactions-on-instrumentation-amp-amp-measurement-sparkles-smile",
           title: 'One paper has been accepted by the IEEE TIM (IEEE Transactions on Instrumentation...',
           description: "",
           section: "News",},{id: "news-one-paper-has-been-accepted-by-the-icra-2025-ieee-international-conference-on-robotics-and-automation-sparkles-smile",
@@ -403,6 +400,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-one-paper-has-been-accepted-by-the-cvpr-2025-ieee-conference-on-computer-vision-and-pattern-recognition-sparkles-smile",
           title: 'One paper has been accepted by the CVPR 2025 (IEEE Conference on Computer...',
+          description: "",
+          section: "News",},{id: "news-one-paper-has-been-accepted-by-the-icme-2025-ieee-international-conference-on-multimedia-amp-amp-expo-sparkles-smile",
+          title: 'One paper has been accepted by the ICME 2025 (IEEE International Conference on...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
