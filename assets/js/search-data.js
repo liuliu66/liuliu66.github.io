@@ -389,10 +389,7 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-one-paper-has-been-accepted-by-the-ieee-tetci-ieee-transactions-on-emerging-topics-in-computational-intelligence-sparkles-smile",
-          title: 'One paper has been accepted by the IEEE TETCI (IEEE Transactions on Emerging...',
-          description: "",
-          section: "News",},{id: "news-one-paper-has-been-accepted-by-the-cvpr-2025-ieee-conference-on-computer-vision-and-pattern-recognition-sparkles-smile",
+    },{id: "news-one-paper-has-been-accepted-by-the-cvpr-2025-ieee-conference-on-computer-vision-and-pattern-recognition-sparkles-smile",
           title: 'One paper has been accepted by the CVPR 2025 (IEEE Conference on Computer...',
           description: "",
           section: "News",},{id: "news-one-paper-has-been-accepted-by-the-icme-2025-ieee-international-conference-on-multimedia-amp-amp-expo-sparkles-smile",
@@ -403,6 +400,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-two-papers-have-been-accepted-by-the-iros-2025-ieee-rsj-international-conference-on-intelligent-robots-and-systems-sparkles-smile",
           title: 'Two papers have been accepted by the IROS 2025 (IEEE/RSJ International Conference on...',
+          description: "",
+          section: "News",},{id: "news-one-paper-has-been-accepted-by-the-acm-mm-2025-acm-international-conference-on-multimedia-sparkles-smile",
+          title: 'One paper has been accepted by the ACM MM 2025 (ACM International Conference...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
