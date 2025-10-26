@@ -389,10 +389,7 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-one-paper-has-been-accepted-by-the-icme-2025-ieee-international-conference-on-multimedia-amp-amp-expo-sparkles-smile",
-          title: 'One paper has been accepted by the ICME 2025 (IEEE International Conference on...',
-          description: "",
-          section: "News",},{id: "news-one-paper-has-been-accepted-by-the-ijcai-2025-international-joint-conference-on-artificial-intelligence-sparkles-smile",
+    },{id: "news-one-paper-has-been-accepted-by-the-ijcai-2025-international-joint-conference-on-artificial-intelligence-sparkles-smile",
           title: 'One paper has been accepted by the IJCAI 2025 (International Joint Conference on...',
           description: "",
           section: "News",},{id: "news-two-papers-have-been-accepted-by-the-iros-2025-ieee-rsj-international-conference-on-intelligent-robots-and-systems-sparkles-smile",
@@ -403,6 +400,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-one-paper-has-been-accepted-by-the-neurips-2025-conference-on-neural-information-processing-systems-sparkles-smile",
           title: 'One paper has been accepted by the NeurIPS 2025 (Conference on Neural Information...',
+          description: "",
+          section: "News",},{id: "news-one-paper-has-been-accepted-by-the-ieee-tcsvt-ieee-transactions-on-circuits-and-systems-for-video-technology-sparkles-smile",
+          title: 'One paper has been accepted by the IEEE TCSVT (IEEE Transactions on Circuits...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
