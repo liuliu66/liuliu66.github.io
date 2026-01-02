@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2025-07-05 00:00:00-0000
+date: 2025-11-29 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-One paper has been accepted by the **ACM MM** 2025 (ACM International Conference on Multimedia).
+One paper has been accepted by the **Pattern Recognition**.
 ! :sparkles: :smile:
