@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2025-09-19 00:00:00-0000
+date: 2026-02-21 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-One paper has been accepted by the **NeurIPS** 2025 (Conference on Neural Information Processing Systems).
+Two papers ([REArtGS++](https://arxiv.org/pdf/2511.17059), DICArt) have been accepted by the **CVPR** 2026 (IEEE Conference on Computer Vision and Pattern Recognition).
 ! :sparkles: :smile:
