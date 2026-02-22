@@ -367,10 +367,7 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-one-paper-has-been-accepted-by-the-neurips-2025-conference-on-neural-information-processing-systems-sparkles-smile",
-          title: 'One paper has been accepted by the NeurIPS 2025 (Conference on Neural Information...',
-          description: "",
-          section: "News",},{id: "news-one-paper-has-been-accepted-by-the-ieee-tcsvt-ieee-transactions-on-circuits-and-systems-for-video-technology-sparkles-smile",
+    },{id: "news-one-paper-has-been-accepted-by-the-ieee-tcsvt-ieee-transactions-on-circuits-and-systems-for-video-technology-sparkles-smile",
           title: 'One paper has been accepted by the IEEE TCSVT (IEEE Transactions on Circuits...',
           description: "",
           section: "News",},{id: "news-one-paper-has-been-accepted-by-the-ieee-tgrs-ieee-transactions-on-geoscience-and-remote-sensing-sparkles-smile",
@@ -381,6 +378,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-one-paper-has-been-accepted-by-the-pattern-recognition-sparkles-smile",
           title: 'One paper has been accepted by the Pattern Recognition. ! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-two-papers-reartgs-dicart-have-been-accepted-by-the-cvpr-2026-ieee-conference-on-computer-vision-and-pattern-recognition-sparkles-smile",
+          title: 'Two papers (REArtGS++, DICArt) have been accepted by the CVPR 2026 (IEEE Conference...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
