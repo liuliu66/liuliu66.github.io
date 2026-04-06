@@ -367,11 +367,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-one-paper-has-been-accepted-by-the-ieee-tcsvt-ieee-transactions-on-circuits-and-systems-for-video-technology-sparkles-smile",
-          title: 'One paper has been accepted by the IEEE TCSVT (IEEE Transactions on Circuits...',
-          description: "",
-          section: "News",},{id: "news-one-paper-has-been-accepted-by-the-ieee-tgrs-ieee-transactions-on-geoscience-and-remote-sensing-sparkles-smile",
-          title: 'One paper has been accepted by the IEEE TGRS (IEEE Transactions on Geoscience...',
+    },{id: "news-one-paper-has-been-accepted-by-the-ieee-tpami-ieee-transactions-on-pattern-analysis-and-machine-intelligence-sparkles-smile",
+          title: 'One paper has been accepted by the IEEE TPAMI (IEEE Transactions on Pattern...',
           description: "",
           section: "News",},{id: "news-two-papers-have-been-accepted-by-the-aaai-2026-the-aaai-conference-on-artificial-intelligence-sparkles-smile",
           title: 'Two papers have been accepted by the AAAI 2026 (the AAAI Conference on...',
@@ -381,6 +378,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-two-papers-reartgs-dicart-have-been-accepted-by-the-cvpr-2026-ieee-conference-on-computer-vision-and-pattern-recognition-sparkles-smile",
           title: 'Two papers (REArtGS++, DICArt) have been accepted by the CVPR 2026 (IEEE Conference...',
+          description: "",
+          section: "News",},{id: "news-one-paper-has-been-accepted-by-the-ieee-t-ase-ieee-transactions-on-automation-science-and-engineering-sparkles-smile",
+          title: 'One paper has been accepted by the IEEE T-ASE (IEEE Transactions on Automation...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
