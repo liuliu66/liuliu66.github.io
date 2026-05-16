@@ -367,10 +367,7 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-one-paper-has-been-accepted-by-the-pattern-recognition-sparkles-smile",
-          title: 'One paper has been accepted by the Pattern Recognition. ! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-two-papers-reartgs-dicart-have-been-accepted-by-the-cvpr-2026-ieee-conference-on-computer-vision-and-pattern-recognition-sparkles-smile",
+    },{id: "news-two-papers-reartgs-dicart-have-been-accepted-by-the-cvpr-2026-ieee-conference-on-computer-vision-and-pattern-recognition-sparkles-smile",
           title: 'Two papers (REArtGS++, DICArt) have been accepted by the CVPR 2026 (IEEE Conference...',
           description: "",
           section: "News",},{id: "news-one-paper-has-been-accepted-by-the-ieee-t-ase-ieee-transactions-on-automation-science-and-engineering-sparkles-smile",
@@ -381,6 +378,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-two-papers-have-been-accepted-by-the-tmm-ieee-transactions-on-multimedia-sparkles-smile",
           title: 'Two papers have been accepted by the TMM (IEEE Transactions on Multimedia). !...',
+          description: "",
+          section: "News",},{id: "news-one-paper-has-been-accepted-by-the-icml-2026-international-conference-on-machine-learning-sparkles-smile",
+          title: 'One paper has been accepted by the ICML 2026 (International Conference on Machine...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
